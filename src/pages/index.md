@@ -2,11 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    title: Dream Home Care LLC
+    subtitle: Better Service For Everybody
+    content: ''
     actions:
       - label: Try Free
         url: /pricing
@@ -14,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/DREAMHOMELOGO.png
     media_position: left
     media_width: fifty
     align: left
